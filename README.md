@@ -31,6 +31,34 @@
 * click 'Open in Remix'
 <!--Images-->
 ![OpenZeppelin](OpenZeppelin.jpg)
+* in Remix click Compile contract-blahblah (blahblah will be numbers and letters)
+<!--Images-->
+![Remix_click-Compile](Remix_click-Compile.jpg)
+* click 'Deploy & run transactions' symbol on the left
+<!--Images-->
+![Remix_click-Deploy](Remix_click-Deploy.jpg)
+* choose 'Injected Provider - MetaMask' in the ENVIRONMENT drop-down on the left
+<!--Images-->
+![Remix_Select-Injected-Provider](Remix_Select-Injected-Provider.jpg)
+* make sure the correct wallet is selected (if you have more than 1 in MetaMask), then click Next
+<!--Images-->
+![MetaMask_Next](MetaMask_Next.jpg)
+* click Connect
+<!--Images-->
+![MetaMask_Connect](MetaMask_Connect.jpg)
+* click Deploy on the left
+<!--Images-->
+![Remix_click-Deploy-button](Remix_click-Deploy-button.jpg)
+* click Confirm on MetaMask
+<!--Images-->
+![MetaMask_Confirm](MetaMask_Confirm.jpg)
+* wait for Remix to show the green check mark on the bottom signifying that your contract has been deployed
+* click view on ehterscan (just above the green check mark)
+<!--Images-->
+![Remix_view-on-etherscan](Remix_view-on-etherscan.jpg)
+
+
+
 
 
 
