@@ -66,7 +66,7 @@
 * back in MetaMask, click the 'Import tokens' link
 <!--Images-->
 ![MetaMask_Import-tokens](MetaMask_Import-tokens.jpg)
-* paste the contract that you copied to your clipboard
+* paste the contract that you copied to your clipboard and click the 'Add custom token' button
 <!--Images-->
 ![MetaMask_click-Add-custom-token](MetaMask_click-Add-custom-token.jpg)
 * click 'Import tokens' button
@@ -77,12 +77,4 @@
 ![MetaMask_click-Final-step](MetaMask_click-Final-step.jpg)
 ### Congratulations, on making your first custom token on the Sepolia ETH test network
 #### Notes
-<!-- links -->
 * This demonstrates using the Sepolia ETH test network, but will work on any of the EVM test network or their main networks (BNB, ETH, POLYGON, etc.)
-
-* This isn't meant to be a Python course, for an introductory Python Course see the link below
-<!-- links -->
-* [Programming with Mosh - Python for Beginners](https://www.youtube.com/watch?v=kqtD5dpn9C8)
-* For getting Python setup on your Computer, see my Getting Started tutorial here
-<!-- links -->
-* [Python - Getting Started](https://github.com/yourwishismine1989/Python_Getting-Started)
